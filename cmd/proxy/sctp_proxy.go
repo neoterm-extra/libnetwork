@@ -6,7 +6,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/ishidawataru/sctp"
+	"kgithub.com/ishidawataru/sctp"
 )
 
 // SCTPProxy is a proxy for SCTP connections. It implements the Proxy interface to
