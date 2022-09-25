@@ -9,7 +9,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/ishidawataru/sctp"
+	"kgithub.com/ishidawataru/sctp"
 )
 
 func main() {
