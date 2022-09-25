@@ -5,7 +5,7 @@ package main
 import (
 	"net"
 
-	"github.com/ishidawataru/sctp"
+	"kgithub.com/ishidawataru/sctp"
 )
 
 // ipVersion refers to IP version - v4 or v6
